@@ -1,0 +1,7 @@
+D:\DXC-C#\Day-57\ConAppSalaryMangament\ConAppSalaryMangament\bin\Debug\ConAppSalaryMangament.exe.config
+D:\DXC-C#\Day-57\ConAppSalaryMangament\ConAppSalaryMangament\bin\Debug\ConAppSalaryMangament.exe
+D:\DXC-C#\Day-57\ConAppSalaryMangament\ConAppSalaryMangament\bin\Debug\ConAppSalaryMangament.pdb
+D:\DXC-C#\Day-57\ConAppSalaryMangament\ConAppSalaryMangament\obj\Debug\ConAppSalaryMangament.csprojAssemblyReference.cache
+D:\DXC-C#\Day-57\ConAppSalaryMangament\ConAppSalaryMangament\obj\Debug\ConAppSalaryMangament.csproj.CoreCompileInputs.cache
+D:\DXC-C#\Day-57\ConAppSalaryMangament\ConAppSalaryMangament\obj\Debug\ConAppSalaryMangament.exe
+D:\DXC-C#\Day-57\ConAppSalaryMangament\ConAppSalaryMangament\obj\Debug\ConAppSalaryMangament.pdb
